@@ -1,0 +1,545 @@
+﻿LOCATION	Country	VARIABLE	Variable	FREQUENCY	Frequency	TIME	Time	Unit Code	Unit	PowerCode Code	PowerCode	Reference Period Code	Reference Period	Value	Flag Codes	Flags
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			5.01515811218866		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			4.77693215962242		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			4.90635372667584		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			4.6939469168296		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			4.69074869067794		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			4.62014591540521		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			4.57286964112082		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			4.52556993373179		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			4.52500088052791		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			4.54405776657976		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			4.56311084886181		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			4.56311084886186		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			4.56311084886183		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			4.57263548849766		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			4.59168286664367		
+AUT	Austria	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			4.62024823105481		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			6.09999999999999		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			6.26666666666667		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			5.73333333333334		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			5.80000000000001		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			5.53333333333334		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			5.5		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			5.51886039317429		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			5.49999623432299		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			5.49339180115247		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			5.49622258337815		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			5.50009162427393		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			5.49538861540697		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			5.47892050311565		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			5.46244624026848		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			5.44626251154835		
+BEL	Belgium	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			5.43479921857069		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			5.84488471161003		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			5.91946867318243		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			5.89439702231586		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			5.67358784097205		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			5.78059548288726		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			5.54586704796229		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			5.63672499559523		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			5.63672499559518		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			5.68347421727572		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			5.75365895577838		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			5.80044295681134		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			5.82383785667648		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			5.81213822763618		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			5.77704805261822		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			5.74194480457416		
+CAN	Canada	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			5.70682847863344		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			8.1555197613652		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			7.22447193883988		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			7.3278636807278		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			6.76052338593443		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			6.44799639137022		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			6.7202717234212		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			6.68771540837125		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			6.65514773057745		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			6.61323374342566		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			6.5713009359288		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			6.52934929963629		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			6.48737882609346		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			6.44538950684203		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			6.39862623057838		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			6.3518395796889		
+FIN	Finland	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			6.30502954248992		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			2.80851474227533		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			2.67648052715365		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			2.58213024642381		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			2.86350585634417		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			2.92754133725816		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.53149706645936		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			4.01335772047303		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			4.10924847200099		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			4.10924847200098		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			4.10924847200097		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			4.10924847200099		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			4.10924847200096		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			4.10924847200094		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			4.10924847200102		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			4.10924847200097		
+ISL	Iceland	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			4.10924847200093		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			5.90336134453781		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			5.8545955652065		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			5.58752397631557		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			5.58879747361423		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			5.01023331968891		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			5.19828510182208		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			5.66667302127949		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			5.20540837484128		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			5.05406997272566		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			4.90248996070848		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			4.76967220925695		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			4.65569216402566		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			4.59865668575886		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			4.56061787263514		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			4.54349562969876		
+IRL	Ireland	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			4.52446712289715		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			10.9167464776627		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			10.7693209105776		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			10.2823814430132		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			10.5481677783393		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			10.3434338746724		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			9.93445076942199		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			9.91645205854458		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			9.93445436628668		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			9.9704517866039		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			10.006434819463		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			10.0424034706143		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			10.0783577458059		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			10.1142976507835		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			10.1502231912908		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			10.1681787821799		
+ITA	Italy	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			10.1681787821798		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			2.48909794698419		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			2.41399530883501		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			2.42140206990824		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			2.40706590313502		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			2.45901639344267		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			2.38962552819467		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			2.30430362588956		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			2.36748668812042		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			2.45825766734272		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			2.41797205710851		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			2.30430362588954		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			2.39660175173232		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			2.36114322854073		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			2.28184726723204		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			2.26536552450489		
+JPN	Japan	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			2.26044715074831		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			3.24548527526722		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			3.30656652828684		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			3.29755261821349		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			3.35262673320045		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.49095420112874		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.49473473207722		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.44674603726475		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.44674603726474		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.44674603726473		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.44674603726473		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			3.44674603726471		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			3.44674603726473		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			3.39863778915177		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			3.35050557081053		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			3.25419316978499		
+MEX	Mexico	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			3.2060129871006		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			7.0703649034512		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			6.75829856455028		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			6.34120467844503		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			5.97372898580146		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			5.80095548123562		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			5.79221750714556		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			5.79221750714553		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			5.76867438835343		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			5.74512538598757		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			5.72157049857749		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			5.69800972465259		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			5.6980097246526		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			5.69800972465257		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			5.67444306274171		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			5.65087051137343		
+SVK	Slovak Republic	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			5.62729206907597		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			2.31331985610307		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			2.24946085239113		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			2.3282472262959		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			2.07912283914043		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			1.95919315463558		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			1.93920583415525		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			2.0125434373226		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			2.05189062706417		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			2.07355791120914		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			2.09522040229369		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			2.11687810137819		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			2.13853100952264		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			2.147447611684		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			2.15636340141328		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			2.16527837878455		
+CZE	Czech Republic	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			2.17419254387181		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			4.19727488151659		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			4.03863818187206		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			4.07300047326077		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			4.01354534746761		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.81820856008237		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.89279437609842		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.81591629940697		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.86393631123953		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.93113076414229		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.99827825137661		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			4.06537880576893		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			4.13243246012338		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			4.1324324601234		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			4.1324324601234		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			4.13243246012337		
+GBR	United Kingdom	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			4.13243246012341		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			3.49223518504212		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			3.42883620356784		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			3.37598273470017		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			3.28840970350407		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.2193622742989		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.12644031341221		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.05596181972137		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.09947238694212		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.1526462245033		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.20579088310051		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			3.25890637874559		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			3.30232586008791		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			3.32165572998095		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			3.33131873290652		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			3.32653149966753		
+DEU	Germany	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			3.3193324688204		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			3.75604571806949		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			3.74496468439808		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			4.00679132223938		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			3.69222262584785		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.62774454314124		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.34937399886904		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.30156264316383		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.25372763602633		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.21518713545796		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.19108432874236		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			3.18143864380513		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			3.16938078674887		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			3.15732142799794		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			3.157321427998		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			3.15732142799794		
+NOR	Norway	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			3.18145667686819		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			6.20114963750724		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			6.25980007840063		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			6.49770679920332		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			6.19891132188826		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			6.3299965439674		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			6.31790548952685		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			7.23229377693146		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			7.14889458044684		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			7.11179494787487		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			7.07003909924244		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			7.02362053735396		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			6.97717878937061		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			6.97717878937062		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			6.97717878937063		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			6.97717878937062		
+SWE	Sweden	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			6.97717878937062		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units	2015	2015	5.39613383771257		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units	2015	2015	5.3193122340088		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units	2015	2015	5.27148716839558		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units	2015	2015	5.24518750999197		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units	2015	2015	5.30056285368557		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units	2015	2015	5.20510499922671		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units	2015	2015	5.15872697177285		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units	2015	2015	5.12508354368809		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units	2015	2015	5.12353928962064		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units	2015	2015	5.11473996612221		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units	2015	2015	5.11030755713211		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units	2015	2015	5.12944983390846		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units	2015	2015	5.12254463987006		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units	2015	2015	5.10709502269633		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units	2015	2015	5.08825549676829		
+OTO	OECD - Total	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units	2015	2015	5.07261305484105		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			4.06136188058713		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			3.8873012383674		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			3.80258604989984		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			3.59902768203751		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.42733188720174		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.29979443903495		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.4368827437601		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.48504389949886		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.46944277542518		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.46572028292054		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			3.45733627092663		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			3.43299749812377		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			3.504955029514		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			3.57685894128062		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			3.64870927337871		
+NLD	Netherlands	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			3.72050606573349		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			8.52177290340574		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			8.28490480442151		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			8.07931371831978		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			7.89666183426013		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			7.724355718281		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			7.58658248707672		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			7.60860791241878		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			7.59384874353837		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			7.57479892890774		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			7.5508624496906		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			7.52472636741802		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			7.49838662789326		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			7.47393193780764		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			7.4490295852845		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			7.4178343476838		
+EA17	Euro area (17 countries)	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			7.38336477574769		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			5.11811023622045		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			5.19320973866429		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			4.98664292074799		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			5.11653718091011		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			5.21768029245596		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			4.91947937348332		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			4.9194793734833		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			4.9194793734833		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			4.91947937348337		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			4.94306962976509		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			4.99025600834871		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			5.03741896355527		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			5.03741896355534		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			5.0374189635553		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			5.0374189635554		
+DNK	Denmark	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			5.0374189635554		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			16.167296361879		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			15.4210631592178		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			14.9559184864621		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			14.4782719555647		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			14.1625233715092		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			14.1661259738604		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			14.3069432091641		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			14.3303429562707		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			14.2793440307929		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			14.1836912995514		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			14.0560197707393		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			13.9281583011162		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			13.7788200542154		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			13.6292226992073		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			13.4793657865285		
+ESP	Spain	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			13.3292488658357		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			6.69832806632934		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			6.0133143810765		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			5.93090127647086		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			5.95445293284938		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			6.04603811380572		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			6.2568488570408		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			5.96303714169332		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			5.86562062748678		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			5.908282944979		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			5.93198064665799		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			5.93198064665806		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			5.93198064665795		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			5.88489247085078		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			5.87076990836314		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			5.85664522669638		
+LTU	Lithuania	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			5.8528774579027		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			6.65099611272543		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			5.09443588526332		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			5.23213608905403		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			4.49561716293643		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			4.57199991993108		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			5.0734497762234		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			5.12038504407956		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			5.13217059985699		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			5.13217059985692		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			5.13217059985692		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			5.13217059985692		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			5.15580189559969		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			5.19129969912345		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			5.2149634224942		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			5.23862123953137		
+EST	Estonia	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			5.26227315170924		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			7.39100706793039		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			7.12026931549102		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			6.92355847262453		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			6.54008001102473		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			6.31999224044053		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			6.62101646352382		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			6.53504219292286		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			6.46481267557989		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			6.41780086061824		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			6.38239565566782		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			6.36092908937145		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			6.33945760077998		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			6.3040227560135		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			6.26857450508695		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			6.23311284292838		
+PRT	Portugal	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			6.19763776446378		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			3.74744799162318		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			3.82474038071512		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			3.97702070169355		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			3.86299861005482		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.93021018003242		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			4.02454208465695		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.49977298833883		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.49977298833882		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.49977298833879		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.49977298833877		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			3.49977298833883		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			3.49977298833874		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			3.4997729883388		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			3.49977298833881		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			3.49977298833882		
+KOR	Korea	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			3.49977298833883		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			5.69097292634183		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			5.49189966306997		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			5.40121415973978		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			5.22479790677778		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			5.27117586030841		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			5.42900960837465		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			5.35324615181876		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			5.31622414049609		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			5.29960546470247		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			5.27640311222407		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			5.25319507498423		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			5.22998135159002		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			5.20676194064829		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			5.18353684076557		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			5.16030605054794		
+LUX	Luxembourg	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			5.13706956860144		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			26.5017918011042		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			26.9552829699483		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			27.228532183006		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			27.8128532856367		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			27.3236753560616		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			28.7349595741085		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			28.861608060596		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			29.2008521738085		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			29.0688826477449		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			28.9219169835471		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			28.7496444320396		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			28.5769543420906		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			28.4390453724246		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			28.3008701177837		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			28.162428064005		
+ZAF	South Africa	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			28.0237186959328		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			4.06333682617301		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			3.84749505986284		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			3.84211140955273		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			3.70674005972946		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.67720368306844		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.45515339942512		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.31924786712058		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.23478831935995		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.15507154489035		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.08976077710868		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			3.01711618506994		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			2.95407570129475		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			2.89826659800995		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			2.85212999735862		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			2.79622872180302		
+POL	Poland	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			2.73298140855021		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			4.08815088235474		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			3.9147249287623		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			3.79146041895545		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			3.76978240631807		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.87884088415175		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.62407472285221		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.63862474354382		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.56693613208837		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.51904286484567		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.49507541618669		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			3.53108696219742		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			3.57911730471034		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			3.62712373367707		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			3.67510626100401		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			3.72306489859105		
+USA	United States	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			3.77099965833281		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			3.74115731415383		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			3.63695647943089		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			3.77921223287296		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			3.66030827507869		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			3.46159448571948		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.41188725900524		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.31630266630663		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.24444553953902		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			3.2324194931368		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			3.20835693240442		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			3.18427641230108		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			3.16017791047541		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			3.13607341026669		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			3.09989640056515		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			3.05162734270841		
+HUN	Hungary	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			2.99124215450724		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			4.33012583271651		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			4.48529411764706		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			3.997066373304		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			4.30971512052593		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			4.17124039517014		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.9372949325556		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			4.17271407837446		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			4.24125190292412		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			4.19525585110308		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			4.18744809547042		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			4.20827984310515		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			4.23691142230911		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			4.27507925354777		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			4.30369656916706		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			4.35136833534762		
+NZL	New Zealand	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			4.38949054804779		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			5.49592163699219		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			5.41646682035669		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			5.22746494776192		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			5.05632494410766		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			4.9944291282659		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			5.21757466255707		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			5.28484858426389		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			5.2848485842639		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			5.28484858426385		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			5.28484858426387		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			5.28484858426389		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			5.2848485842639		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			5.25652749842242		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			5.22819794420092		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			5.19985991906708		
+AUS	Australia	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			5.17151342048816		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			9.20137828915061		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			9.07961254419082		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			9.1424598116407		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			8.81281752870562		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			8.66810995913487		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			8.43820037658006		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			8.52827603860167		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			8.43712323596236		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			8.35337176179184		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			8.27342970549717		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			8.20484904428991		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			8.1545540705985		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			8.13169727716872		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			8.11798320179017		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			8.10426707917814		
+FRA	France	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			8.08597755037522		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			4.83707245249665		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			4.96027896813868		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			4.26127609666101		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			4.83113179383574		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			4.55823229998608		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			4.48144332913714		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			4.48599345758981		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			4.48599345758981		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			4.49553341030078		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			4.50507241015992		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			4.51461045726241		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			4.52414755170335		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			4.51366083314469		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			4.48410410752414		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			4.4545382329506		
+CHE	Switzerland	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			4.42496320659207		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2018-Q1	Q1-2018	PC	Percentage	0	Units			3.71556212741594		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2018-Q2	Q2-2018	PC	Percentage	0	Units			4.01516856466093		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2018-Q3	Q3-2018	PC	Percentage	0	Units			4.10976605909983		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2018-Q4	Q4-2018	PC	Percentage	0	Units			4.15915163037088		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2019-Q1	Q1-2019	PC	Percentage	0	Units			4.01872216438853		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2019-Q2	Q2-2019	PC	Percentage	0	Units			3.85610721641697		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2019-Q3	Q3-2019	PC	Percentage	0	Units			3.69394987892708		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2019-Q4	Q4-2019	PC	Percentage	0	Units			3.99998697960972		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2020-Q1	Q1-2020	PC	Percentage	0	Units			4.02867224246442		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2020-Q2	Q2-2020	PC	Percentage	0	Units			4.06690783121244		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2020-Q3	Q3-2020	PC	Percentage	0	Units			4.13379345324249		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2020-Q4	Q4-2020	PC	Percentage	0	Units			4.21018086881758		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2021-Q1	Q1-2021	PC	Percentage	0	Units			4.24836315845632		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2021-Q2	Q2-2021	PC	Percentage	0	Units			4.24836315845626		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2021-Q3	Q3-2021	PC	Percentage	0	Units			4.26745620667995		
+ISR	Israel	UNR	Unemployment rate	Q	Quarterly	2021-Q4	Q4-2021	PC	Percentage	0	Units			4.29609006823329		
